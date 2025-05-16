@@ -10,5 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@vonage/server-sdk": "^3.21.0"
   }
 }
