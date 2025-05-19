@@ -10,6 +10,11 @@ cd vonage-cli
 npm install
 ```
 
+## Configuration
+
+You need to register for the [Vonage API](https://www.vonage.com/) and obtain an API key and secret.
+Then, rename the `.env.example` file to `.env` and add both as environment variables.
+
 ## Usage
 
 ```bash
